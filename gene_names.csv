@@ -1,0 +1,281 @@
+gene,group
+ABCC11,Breast cancer
+ACTA2,Smooth muscle cells
+ACTG2,Breast myoepithelial cells
+ADAM9,Breast glandular cells
+ADGRE5,Dendritic cells
+ADH1B,Adipocytes
+ADIPOQ,Adipocytes
+AGR3,Breast glandular cells
+AIF1,Macrophages
+AKR1C1,Smooth muscle cells
+AKR1C3,Endothelial cells
+ALDH1A3,
+ANGPT2,Endothelial cells
+ANKRD28,
+ANKRD29,Adipocytes
+ANKRD30A,Epithelial cells
+APOBEC3A,B cells
+APOBEC3B,
+APOC1,Macrophages
+AQP1,Endothelial cells
+AQP3,
+AR,Breast cancer
+AVPR1A,Smooth muscle cells
+BACE2,Breast glandular cells
+BANK1,B cells
+BASP1,Macrophages
+C15orf48,Breast glandular cells
+C1QA,Macrophages
+C1QC,Macrophages
+C2orf42,
+C5orf46,
+C6orf132,
+CAV1,
+CAVIN2,Adipocytes
+CCDC6,Breast glandular cells
+CCDC80,Fibroblasts
+CCL5,T cells
+CCL8,Smooth muscle cells
+CCND1,Breast cancer
+CCPG1,
+CCR7,T cells
+CD14,Monocytes
+CD163,Macrophages
+CD19,B cells
+CD247,NK cells
+CD27,B cells
+CD274,T cells
+CD3E,T cells
+CD3G,T cells
+CD4,T cells
+CD68,Macrophages
+CD69,T cells
+CD79A,B cells
+CD79B,B cells
+CD80,Macrophages
+CD83,Dendritic cells
+CD86,Macrophages
+CD8A,T cells
+CD9,Breast glandular cells
+CD93,Endothelial cells
+CDC42EP1,
+CDH1,Breast cancer
+CEACAM6,Breast cancer
+CEACAM8,
+CENPF,Breast cancer
+CLEC14A,Adipocytes
+CLEC9A,Dendritic cells
+CLECL1,B cells
+CLIC6,Breast glandular cells
+CPA3,Mast cells
+CRISPLD2,Smooth muscle cells
+CTH,Smooth muscle cells
+CTLA4,T cells
+CTSG,Mast cells
+CTTN,Breast glandular cells
+CX3CR1,Macrophages
+CXCL12,
+CXCL16,
+CXCL5,Macrophages
+CXCR4,T cells
+CYTIP,T cells
+DAPK3,Breast glandular cells
+DMKN,Breast glandular cells
+DNAAF1,B cells
+DNTTIP1,Breast glandular cells
+DPT,Fibroblasts
+DSC2,Breast glandular cells
+DSP,Breast myoepithelial cells
+DST,Breast myoepithelial cells
+DUSP2,T cells
+DUSP5,B cells
+EGFL7,Adipocytes
+EGFR,
+EIF4EBP1,Breast glandular cells
+ENAH,Breast glandular cells
+EPCAM,Epithelial cells
+ERBB2,Breast cancer
+ERN1,B cells
+ESM1,Endothelial cells
+ESR1,Breast cancer
+FAM107B,B cells
+FAM49A,Macrophages
+FASN,Breast glandular cells
+FBLN1,Fibroblasts
+FCER1A,Dendritic cells
+FCER1G,NK cells
+FCGR3A,Monocytes
+FGL2,Macrophages
+FLNB,Breast glandular cells
+FOXA1,Breast cancer
+FOXC2,Smooth muscle cells
+FOXP3,T cells
+FSTL3,Smooth muscle cells
+GATA3,Breast cancer
+GJB2,Macrophages
+GLIPR1,Breast myoepithelial cells
+GNLY,NK cells
+GPR183,T cells
+GZMA,T cells
+GZMK,T cells
+HAVCR2,T cells
+HMGA1,Breast glandular cells
+HOOK2,Breast glandular cells
+HOXD8,Adipocytes
+HOXD9,Adipocytes
+HPX,
+IGF1,Fibroblasts
+IGSF6,Macrophages
+IL2RA,T cells
+IL2RG,Dendritic cells
+IL3RA,Dendritic cells
+IL7R,T cells
+ITGAM,
+ITGAX,Dendritic cells
+ITM2C,B cells
+JUP,Breast glandular cells
+KARS,
+KDR,Adipocytes
+KIT,
+KLF5,Breast myoepithelial cells
+KLRB1,T cells
+KLRC1,T cells
+KLRD1,NK cells
+KLRF1,NK cells
+KRT14,
+KRT23,Breast glandular cells
+KRT5,Breast myoepithelial cells
+KRT6B,Breast myoepithelial cells
+KRT7,Breast cancer
+KRT8,Epithelial cells
+LAG3,T cells
+LARS,
+LDHB,
+LGALSL,
+LILRA4,Dendritic cells
+LPL,Adipocytes
+LPXN,Macrophages
+LRRC15,
+LTB,T cells
+LUM,Fibroblasts
+LY86,Macrophages
+LYPD3,Breast glandular cells
+LYZ,Macrophages
+MAP3K8,
+MDM2,Breast cancer
+MKI67,Breast cancer
+MLPH,Breast glandular cells
+MMP1,Fibroblasts
+MMP12,Fibroblasts
+MMP2,Fibroblasts
+MMRN2,Adipocytes
+MNDA,Macrophages
+MRC1,Macrophages
+MS4A1,B cells
+MUC6,
+MYBPC1,Epithelial cells
+MYH11,Smooth muscle cells
+MYLK,Breast myoepithelial cells
+MYO5B,Breast glandular cells
+MZB1,B cells
+NARS,
+NCAM1,NK cells
+NDUFA4L2,Adipocytes
+NKG7,NK cells
+NOSTRIN,
+OCIAD2,Breast glandular cells
+OPRPN,
+OXTR,Breast myoepithelial cells
+PCLAF,Breast cancer
+PDCD1,T cells
+PDCD1LG2,Adipocytes
+PDE4A,
+PDGFRA,Fibroblasts
+PDGFRB,Smooth muscle cells
+PDK4,Smooth muscle cells
+PECAM1,Endothelial cells
+PELI1,B cells
+PGR,
+PIGR,Breast glandular cells
+PIM1,Fibroblasts
+PLD4,Macrophages
+POSTN,Fibroblasts
+PPARG,Macrophages
+PRDM1,T cells
+PRF1,NK cells
+PTGDS,
+PTN,Breast myoepithelial cells
+PTPRC,Immune cells
+PTRHD1,Breast glandular cells
+QARS,Breast glandular cells
+RAB30,
+RAMP2,Adipocytes
+RAPGEF3,Adipocytes
+RHOH,T cells
+RORC,
+RTKN2,T cells
+RUNX1,Breast cancer
+S100A14,Breast glandular cells
+S100A4,
+S100A8,Monocytes
+SCD,Breast cancer
+SCGB2A1,
+SDC4,Breast glandular cells
+SEC11C,
+SEC24A,Macrophages
+SELL,T cells
+SERHL2,Breast glandular cells
+SERPINA3,Breast glandular cells
+SERPINB9,Macrophages
+SFRP1,
+SFRP4,Fibroblasts
+SH3YL1,Breast glandular cells
+SLAMF1,B cells
+SLAMF7,B cells
+SLC25A37,Breast glandular cells
+SLC5A6,Breast glandular cells
+SMAP2,T cells
+SMS,Breast glandular cells
+SNAI1,
+SOX17,Endothelial cells
+SOX18,Adipocytes
+SPIB,Dendritic cells
+SQLE,Breast glandular cells
+SRPK1,Breast glandular cells
+SSTR2,Smooth muscle cells
+STC1,
+SVIL,
+TAC1,Fibroblasts
+TACSTD2,Breast cancer
+TCEAL7,
+TCF4,
+TCF7,T cells
+TCIM,
+TCL1A,B cells
+TENT5C,T cells
+TFAP2A,
+THAP2,Smooth muscle cells
+TIFA,
+TIGIT,T cells
+TIMP4,Adipocytes
+TMEM147,Breast glandular cells
+TNFRSF17,
+TOMM7,Breast glandular cells
+TOP2A,Breast cancer
+TPD52,Breast glandular cells
+TPSAB1,Mast cells
+TRAC,T cells
+TRAF4,
+TRAPPC3,Breast glandular cells
+TRIB1,B cells
+TUBA4A,
+TUBB2B,Breast myoepithelial cells
+UCP1,Adipocytes
+USP53,Breast glandular cells
+VOPP1,B cells
+VWF,Endothelial cells
+WARS,Endothelial cells
+ZEB1,
+ZEB2,
+ZNF562,Breast glandular cells
